@@ -1,0 +1,20 @@
+# Java
+# Compiled class files
+bin/
+*.class
+
+# Packages
+*.jar
+*.war
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
