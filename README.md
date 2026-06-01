@@ -1,4 +1,4 @@
-# Sistema de Triagem de Pacientes (Questão 5)
+# Sistema de Triagem de Pacientes 
 
 Este é um programa em Java feito para ajudar um posto de saúde a cadastrar pessoas e descobrir rapidamente quem precisa de atendimento urgente.
 
